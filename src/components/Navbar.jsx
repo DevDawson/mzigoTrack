@@ -17,8 +17,8 @@ const Navbar = () => {
         {/* Nav links */}
         <ul className="flex flex-wrap items-center space-x-4 text-white text-sm">
           <li><FaUserCheck /></li>
-          <li className="hover:underline cursor-pointer">Home</li>
-          <li className="hover:underline cursor-pointer">About</li>
+          <li className="hover:underline cursor-pointer">Register ..coming soon</li>
+          <li className="hover:underline cursor-pointer">TrackNow..coming soon</li>
         </ul>
       </div>
 
