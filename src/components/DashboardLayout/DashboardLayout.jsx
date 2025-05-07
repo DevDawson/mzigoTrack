@@ -1,10 +1,11 @@
 import React from 'react'
 import Navbar from '../DashboardComponents/NAvbar'
 
-const DashboardLayout = () => {
+const DashboardLayout = ({children}) => {
   return (
     <div>
         <Navbar />
+        {children}
     </div>
   )
 }
