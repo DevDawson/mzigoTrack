@@ -2,7 +2,9 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className='flex flex-col-reverse lg:flex-row items-center justify-between py-10'>
+
+    </div>
   )
 }
 
