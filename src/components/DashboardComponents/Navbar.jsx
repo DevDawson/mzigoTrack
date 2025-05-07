@@ -1,9 +1,9 @@
 import React from 'react'
 
-const NAvbar = () => {
+const NavBar = () => {
   return (
-    <div className='flex flex-col-reverse lg:flex-row items-center justify-between py-10'>Navbar</div>
+    <div className='flex flex-col-reverse lg:flex-row items-center justify-between py-10'>NavBar</div>
   )
 }
 
-export default NAvbar
+export default NavBar
