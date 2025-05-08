@@ -4,7 +4,6 @@ import HomeWrapper from '../components/Layouts/HomeWrapper'
 const Home = () => {
   return (
     <HomeWrapper>
-        
     </HomeWrapper>
   )
 }
